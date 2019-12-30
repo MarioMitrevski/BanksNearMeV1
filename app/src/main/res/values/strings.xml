@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BanksNearMeV1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_maps">Banks map</string>
+</resources>
